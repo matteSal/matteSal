@@ -1,6 +1,12 @@
-- Hi i'm Matteo.
-- I'm a backend web developer
+### About me.
 
-### I usually use
-> PHP <br>
-> MySQL
+- Hi i'm Matteo.
+- I'm a backend web developer.
+
+### I usually use.
+#### BackEnd <br>
+> *PHP* <br>
+> *MySQL*
+#### FrontEnd <br>
+> *HTML* <br>
+> *CSS*
