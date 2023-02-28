@@ -1,7 +1,7 @@
 ### About me.
 
 - Hi i'm Matteo.
-- I'm a backend web developer.
+- I'm a backend and frontend web developer.
 
 ### I usually use.
 #### BackEnd <br>
