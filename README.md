@@ -41,9 +41,9 @@ Sono affascinato dalle potenzialità di questa tecnologia e la sto integrando ne
 ### 🔥 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matteosalviii&show_icons=true&theme=tokyonight&hide_title=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matteSal&show_icons=true&theme=tokyonight&hide_title=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteosalviii&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteSal&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
